@@ -39,7 +39,7 @@ for g1 in range(4):
     for d1 in range(4):
         for g2 in range(4):
             for d2 in range(4):
-                for g3 in range(54):
+                for g3 in range(4):
                     for d3 in range(4):
                         for g4 in range(4):
                             for d4 in range(4):
